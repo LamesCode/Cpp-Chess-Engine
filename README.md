@@ -110,7 +110,7 @@ This engine handles the full ruleset of chess including the tricky edge cases:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/Cpp-Chess-Engine.git
+git clone https://github.com/LamesCode/Cpp-Chess-Engine.git
 
 # 2. Navigate into the folder
 cd Cpp-Chess-Engine
